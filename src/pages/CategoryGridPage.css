@@ -1,0 +1,8 @@
+.grid-page .card {
+  width: 20rem !important; 
+}
+
+.grid-page .card-img-top {
+  height: 260px;           
+  object-fit: cover;       
+}
